@@ -62,8 +62,8 @@ st.caption(" Preloaded inspection + Thermal Reports")
 
 # define the path of Predefined PDF files
 pdf_paths = [
-    "inspection_report.pdf",
-    "thermal_report.pdf"]
+    "inspection_1.pdf",
+    "thermal_1.pdf"]
 
 
 # -------------------- LOAD DOCUMENTS --------------------
